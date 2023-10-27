@@ -48,4 +48,4 @@ if {
         echo Are you root? This program must be run with root - please try again
         echo Restarting apcusd daemon - try running again with root or check logs
 fi
-#NOTE: Test with sudo apcaccess for meaningful results - and this will indicate some successul components have been installed even if parts of the install fail 
+#NOTE: Test with sudo apcaccess. If the profile menu launches you can be sure the app is working though more tests need to be performed to verify successful integration of all system tools. 
